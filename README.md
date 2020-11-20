@@ -1,9 +1,14 @@
 # 在线炒米粉、牛河
 
-## options:
+## Options:
 
 1. 经典广式炒粉
 2. 干炒牛河
 3. 东北大腰子
+
+## 关于价格
+
+随缘就好~
+
 
 ![image](https://github.com/mouhui/Sponsor/blob/main/images/pay-weixin.jpeg)
