@@ -6,3 +6,4 @@
 2. 干炒牛河
 3. 东北大腰子
 
+![image](https://github.com/mouhui/Sponsor/blob/main/images/pay-weixin.jpeg)
